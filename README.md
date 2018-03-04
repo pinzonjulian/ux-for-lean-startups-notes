@@ -199,4 +199,9 @@ By the 4th or 5th iteration, you should have enough data to identify major usabi
 
 > One word of caution: You can't actually learn wether people will like your product this way. You can only figure out if people understand your product. But, flankly, that's a pretty important thing to know.
 
-
+#### Tips on getting useful user feedback
+1. Shut the hell up! Listen! Give people enough time to figure things on their own. 
+2. Don't give a guided tour. Give as little information as possible. Present a scenario to give some context. I.E. You want to buy new pants and someone told you about this new cool app where you can buy them. What would you do to buy them?
+3. After the user has finished, ask questions that spark a discusison. **Do not use Yes or No questions. You want to get people talking**.
+4. Always ask followup questions. "Was it cool?" "yes" "WHAT WAS COOL ABOUT IT?!!" Ding ding ding!
+5. Let the user fail.
