@@ -110,3 +110,93 @@ That way you can diagnose a disease, develop a course of treatment and **follow 
 > If you don't have time to do user reserach, you'd better make time to fix your product once you've built it wrong, because I guarantee that is what's going to happen. The fact is, you don't have time *not* to do research.
 
 > If you're doing the right sort of research at the righ time, you will end up saving time and money.
+
+### Competitor testing
+
+Go test what the competition does. No competition? Weird... but go find the next best thing. They must be screwing something up. Find it and fix it for your product.
+
+**How to do it**
+Part 1:
+
+1. Find 4 or 5 users that use your competitors product.
+2. Schedule a meeting/skype call.
+3. Watch them use their product.
+
+Part 2: Ask them some questions. Here are some examples
+
+1. What do you like about the product?
+2. What do you hate about it?
+3. What confuses you about it?
+4. What do you find particularly annoying about it?
+5. What's missing from it?
+6. Where did you hear about it?
+7. Have you tried anything else like it?
+8. Why did you pick this particular product over other options?
+
+### Five Second tests
+> You'd be shocked by how many users have literally no idea who you are, what your product is, or why they should be using it.  The horrifying thing is, they often feel this way after they've seen your actual product.
+
+Ask your clients what it is they think you do. **This is greatly influcenced by your landing page**. It's your first and almost always your only chance to convert a visit into revenue.
+
+> The goal of your landing pages is to convert the right kind of visitors into users. 
+
+Ask these questions to potential clients or random people at a cafe:
+
+1. What does the user think this product does? (Messaging) What does this product do?
+2. Who does the user think the product is for? (Branding) Who is this product for?
+3. Can the user figure out how to get the product? (CTA) What would you do if you came to this page on the recommendation of a friend or after clicking an ad?
+
+Always follow up with WHY after each question. Always remember to buy them something in return ;)
+
+### Clickable prototype testing
+
+When is this the best choice? When you're creating a confusing, frustrating or complicated interaction. 
+When is it not? When an engineer can built it almost as fast or faster in code. Like a landing page.
+
+There are many gray areas but here are some pointer as to when you should create an interactive prototype:
+
+> 1. For some reason, it will be difficult to change it in production if you got it wrong --for example, you're shipping software ina box or building a physical product.
+> 2. Your finished product could kill someone or otherwise have a terrible outcome if it's wrong--for example, you're building a medical device or an election ballot.
+> 3. The expected user flow is more complicated than a single click or call-to-action--for example, the user has to move thorugh several states or input various pireces of information, each of which may affect later decisons.
+> 4. You have engineers who will be upset if they have to throw all their work because you designed it wrong--for example, every enegneer I have ever met.
+
+**How to do it**
+1. Make an interavtive prototype. Use HTML & JS, Axure, Adobe XD, Invision. Pick something where you can create and iterate quickly. Use a tool built for the job, NOT POWERPOINT!
+2. Decide who to interview and which tasks they should perform.
+
+
+**Things Laura Klein tests**
+1. Signup flows that have more than one step
+2. Purchase flows
+3. Searching and browsing experiences
+4. Sharing experiences (taking a picture, leaving a comment)
+5. File upload and editing
+6. Navigation of the entire product
+7. PHysical buttons on products that aren't entirely screen based
+8. Installation for products that require any kind of setup.
+9. Anything else that requires more than one or two steps
+
+3. Make 3 to 5 people navigate and test it. Make them perform the tasks you listed.
+
+> Once you've identified a few major problems that users are having while completing the tasks, fix the prototype and do it all again. Keep iterating until users are able to complete most tasks themselves.
+
+Pro tip: If you have multiple versions, ask your test users to complete all tasks in all prototypes but show them in random order.
+
+### Guerilla user tests
+
+Cheap | Fast | Actionable. Excelente for finding major usability flows in they key parts of your product. Use it to test new user problems (onboarding, messaging, early conversion)
+
+Load your prototype, actual product or competition's product in a laptop or tablet, go to the nearest coffee shop, offer someone a drink and let them look at it for 10 mins.
+
+1. Give the subject just the data they would know if they arrived there on their own.
+2. Give them one task to acomplish.
+3. Don't give any context or explain your product.
+4. Listen to the questions they pose but don't answer them
+5. Ask how they think they did accomplishing the task.
+6. Repeat!
+
+By the 4th or 5th iteration, you should have enough data to identify major usability flaws. If there are, iterate the prototype and start over.
+
+> One word of caution: You can't actually learn wether people will like your product this way. You can only figure out if people understand your product. But, flankly, that's a pretty important thing to know.
+
+
