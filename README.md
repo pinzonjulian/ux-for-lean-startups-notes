@@ -205,3 +205,62 @@ By the 4th or 5th iteration, you should have enough data to identify major usabi
 3. After the user has finished, ask questions that spark a discusison. **Do not use Yes or No questions. You want to get people talking**.
 4. Always ask followup questions. "Was it cool?" "yes" "WHAT WAS COOL ABOUT IT?!!" Ding ding ding!
 5. Let the user fail.
+
+## Chapter Three: Faster user research
+
+### Iteration
+>Patterns start to emerge in usability research after the first few tests. After five, you're really just hearing all the same stuff over and over again.
+
+For most type of researches, you want to find the minimum number of people you can interview before you start to see a pattern --> 5 seems to be the magic number.
+
+For some types of tests, you may need larger numbers. Like (5 second tests)[#five-second-tests] that may need around 10 to 15 people. 
+
+The key is to 
+1. Take data from those few tests
+2. Analize it
+3. Look for patterns
+4. Refine your prototype
+5. Rinse and repeat
+
+In usability testing, keep doing this pattern until the user passes all the tests with relative ease and minimal confusion. For landing page tests, iterate until people actually understand what your product does.
+
+> Whatever type of research you're doing, keep it small and then iterating will always give you the best return in the least amount of time.
+
+### Remote testing
+The only types of tests you *really* need to do in person are the ones where you need to understand the environment where the user will be using your product.
+
+Use gotomeeting.com, skype etc. Be sure to test your platform beforehand to invest your time with the user wisely.
+
+### Unmoderated testing
+These are great to validate usability issues and find out if a person with no context can use your product but do not give specific insights about your specific market (unless you recruit specific people to do the tests). 
+
+Resources:
+usertesting.com
+
+### Surveys
+> ... they're not a replacement for listening to customers talk about their needs or watching people use your product.
+
+> ... this sort of qualitative research isn't a statistically significant science experiment. It often doesn't have to be. All it has to do is present you with some likely hypotheses you can later test in a more thorough manner.
+
+> By using qualitative research to generate your hypotheses and realizing that surveys are only good at validating or invalidating those hypotheses, you can turn surveys into an incredibly powerful tool. **Just don't try to use them to come up with new ideas. They're the wrong tool for that.**
+
+### Excuses people use for not doing research
+1. It's a design standard.
+
+   Sometimes people think by using design standards they can skip testing. Wrong! This doesn't mean you have to research every minor change to your site but you should keep an eye on how changes affect user behavior.
+
+2. Company X does it this way...
+You're not solving the same problems as Google/Apple/Facebook and your customers are very different to theirs. Get inspired by them but test your own ideas.
+
+3. We don't have time or money
+You'll save time and money if you do research/testing on time. Even if your past your deadline, take time to test.
+
+4. We're new. We'll fix it later.
+Great. Cut something else but not on UX research and testing. Cut cool looks or dashing features. 
+> Take a few hours to show your ideas to users informally, and you will save your future self many hours of rework.
+
+5. It's my vision, User will just screw it up.
+
+Your goal is to solve a problem by using user feedback. This doesn't mean to sacrifice your vision. 
+
+
