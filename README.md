@@ -263,4 +263,47 @@ Great. Cut something else but not on UX research and testing. Cut cool looks or 
 
 Your goal is to solve a problem by using user feedback. This doesn't mean to sacrifice your vision. 
 
+## Chapter four: Qualitative research is great...except when it's terrible
+> The truth is that qualitative research isn't right for every situation (it's what we've been talking about). It's fantastic for learning very specific types of things, and it is completely useless for other things. That's OK. The trick is to use it only in the right cricumstances.
 
+**On qualitative research**
+
+1. Interviewing
+2. Watching humans to understand their behavior
+3. It's NOT statistically significant
+
+Examples:
+1. Contextual inquiry
+2. Usability studies
+3. Customer development interviews
+
+**On quantitative research**
+1. Doesn't involve speaking with humans
+2. It's about the data in aggregate
+3. It should *always* be statistically significant.
+
+Examples:
+1. Funnel analytics
+2. A/B testing
+3. Cohort analysis
+
+> Quantitative research tells you what your problem is. Qualitative research tells you *why* you have that problem.
+
+**An easy choice**
+If you want to change the copy or placement of **a single element**, use qualitative tests. 
+
+**A multivariable or flow change**
+You can ship it and do qualitative tests afterwards. It may succeed or fail but you won't know *why*. 
+> When you're making a large, multivariable change or really rearranging a process flow for something that already exists on your site, you'll want to perform qualitative testing before you ever ship the product.
+
+> You'll do an A/B test afterwards, but give the feature the best possible chance to succeed by first making sure you're not building something impossible to use.
+
+### Deciding what to build next
+> ... you can learn a huge ammount from both quantitative and qualitative research when you're deciding what to build next.
+
+1. Qualitative approach
+  - Watch user use your product on a regular basis. Where do they struggle? Where are they dissappointed? Where do they complain?
+  - Talk to people who have stopped using your product.
+  - Watch new customers with your product and ask them what they expected from the first 15 minutes using the product. **Use this to fulfill a users's first-time experience's expectations.
+  
+P56
