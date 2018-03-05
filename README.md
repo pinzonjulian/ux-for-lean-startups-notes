@@ -1,7 +1,16 @@
 # UX for Lean Startups
-Notes for Laura Klein's book on UX: UX for Lean Startups
+Notes for Laura Klein's book: UX for Lean Startups
 
-These are my takes on Laura Klein's book. This is meant to be a quick reference on key concepts but by no means a replacement for the book itself. By all means, go buy Laura's book here --> https://www.amazon.com/UX-Lean-Startups-Experience-Research/dp/1449334911/ref=sr_1_2?ie=UTF8&qid=1520170438&sr=8-2&keywords=ux+for+lean+startups
+These are my takes on Laura Klein's book. This is meant to be a quick reference on key concepts but by no means a replacement for the book itself. It's an amazing book for:
+
+1. Designers
+2. Software engineers
+3. Product managers
+4. Anyone wanting to learn how to find their market and cater great products for them.
+
+Go buy Laura's book here --> https://www.amazon.com/UX-Lean-Startups-Experience-Research/dp/1449334911/ref=sr_1_2?ie=UTF8&qid=1520170438&sr=8-2&keywords=ux+for+lean+startups
+
+*P.S: I don't get anything if you buy from that link. It's a genuine recommendation*
 
 ## Index
 [Introduction](#introduction)
