@@ -315,4 +315,31 @@ You can ship it and do qualitative tests afterwards. It may succeed or fail but 
   - Talk to people who have stopped using your product.
   - Watch new customers with your product and ask them what they expected from the first 15 minutes using the product. **Use this to fulfill a users's first-time experience's expectations.
   
-P56
+### What questions does qualitative research answer well?
+1. Can your users do X?
+2. Does the feature make sense to them?
+3. Can the complete a given task successfully?
+4. Are they likely to enjoy performing the task?
+5. Do they hate the task?
+6. Are users excited or not about the feature? (keep your eyes open on their reaction)
+
+### Will people buy my product/new feature?
+
+It's a tough question to answer but you can rely on quantitative data for that.
+Create fake landing pages taunting the feature or fake buttons to meassure intent.
+
+### How to choose between qualitative and quantitative tests
+Aks yourself whether you want to know WHAT is happening or WHY is it happening.
+Example questions:
+1. Quantitative:
+  - Traffic
+  - Revenue
+  - Clicks
+2. Qualitative
+  - Why are people leaving a funnel at certain stage?
+  - Why do people leave at a specific page?
+  - Why don't people click that button you want them to click?
+  
+# 2. Design
+
+P63
