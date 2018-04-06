@@ -38,7 +38,7 @@ Lean UX doesn't assume that a new design of feature is better than what came bef
 
 ## Chapter one: Early validation
 Key concepts:
-1. A market is a groupo of people you think might want to buy your producto. 
+1. A market is a group of people you think might want to buy your product.
 2. A problem is the reason those people are going to use your product.
 3. A product is simply the way that you're going to solve the users's problem. 
 
